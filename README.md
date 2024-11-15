@@ -10,12 +10,6 @@ The project is part of a skill assessment for the subject **Digital Communicatio
 
 ---
 
-## 🛠️ Project Structure
-
-📁 digital-comm-signal-processing ├── 📄 README.md ├── 📄 DM_ADM_PCM.ipynb (Colab notebook) └── 📄 LICENSE (if applicable)
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
