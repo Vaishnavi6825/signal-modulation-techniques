@@ -22,12 +22,12 @@ Make sure you have the following installed:
 
 ### Installation & Download Instructions
 
-Method 1: Direct Download (No Terminal Needed) <br>
-Go to your repository page on GitHub.<br>
-Click on the green "Code" button.<br>
-Select "Download ZIP".<br>
-This will download a ZIP file of your repository.<br>
-Extract the ZIP file on your computer.<br>
+*Direct Download (No Terminal Needed) <br>
+*Go to your repository page on GitHub.<br>
+*Click on the green "Code" button.<br>
+*Select "Download ZIP".<br>
+*This will download a ZIP file of your repository.<br>
+*Extract the ZIP file on your computer.<br>
 
 ---
 
@@ -58,9 +58,9 @@ Samples, quantizes, and digitizes the analog signal using quantization levels.
 💻 Usage<br>
 To run the code:<br>
 
-Open the notebook KIRUTHIKA_M_DC_SA2.ipynb in Google Colab. <br>
-Execute the cells to see the outputs of different modulation techniques.<br>
-The generated plots will help visualize the differences between DM, ADM, and PCM.<br>
+1.Open the notebook KIRUTHIKA_M_DC_SA2.ipynb in Google Colab. <br>
+2.Execute the cells to see the outputs of different modulation techniques.<br>
+3.The generated plots will help visualize the differences between DM, ADM, and PCM.<br>
 
 ---
 
@@ -73,8 +73,8 @@ Tools used: Python, Google Colab, GitHub<br>
 
 ---
 
-📧 Contact
-For any inquiries or collaboration, feel free to contact me:
-Name: Kiruthika M
-Email: kiruthi2922004@gmail.com
+📧 Contact<br>
+For any inquiries or collaboration, feel free to contact me:<br>
+Name: Kiruthika M<br>
+Email: kiruthi2922004@gmail.com<br>
 LinkedIn: https://www.linkedin.com/in/kiruthika-m-66b1a5254/
